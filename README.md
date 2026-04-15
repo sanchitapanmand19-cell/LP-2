@@ -1,1 +1,1 @@
-# LP-2
+print('good afternoon')
